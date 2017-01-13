@@ -6,9 +6,9 @@ permalink: /about/
 
 Security researcher attempting to make a small dent in the world.
 
-### More Information
+### Research Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+Focus on understanding the impediments to improving security. Understanding the technical and social issues with the adoption of better development and engineering practices. Social levers to improve industry wide development. Developing technology to fit within the constraints of development and product focus.
 
 ### Contact me
 
