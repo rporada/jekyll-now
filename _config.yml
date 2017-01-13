@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Reed Porada
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/5257158?v=3&u=9d99fa5f6e76a8268348012288e90a5d1e654dad&s=400 
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: rporada/
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
