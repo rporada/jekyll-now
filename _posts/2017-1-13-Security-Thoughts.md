@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Thoughts Blog
+title: Introducing Security Thoughts 
 ---
 
 For the past several years I have been researching computer security. In that ti
