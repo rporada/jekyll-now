@@ -6,7 +6,7 @@
 name: Security Thoughts
 
 # Short bio or description (displayed in the header)
-description: Security research, observations and other musings
+description: Security research, observations, and other musings
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/5257158?v=3&u=9d99fa5f6e76a8268348012288e90a5d1e654dad&s=400 
@@ -18,12 +18,12 @@ avatar: https://avatars1.githubusercontent.com/u/5257158?v=3&u=9d99fa5f6e76a8268
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: reed@porada.io
   facebook:
   flickr:
-  github: rporada/
+  github: # rporada/
   instagram:
-  linkedin:
+  linkedin: reedporada
   pinterest:
   rss: 
   twitter: 
