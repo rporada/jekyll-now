@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Security researcher attempting to make a small dent in the world.
+_Reed Porada_
+
+Security researcher working to make a small dent in the world.
 
 ### Research Interests
 
