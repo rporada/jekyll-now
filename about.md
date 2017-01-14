@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-_Reed Porada_
+*Reed Porada*
 
 Security researcher working to make a small dent in the world.
 
