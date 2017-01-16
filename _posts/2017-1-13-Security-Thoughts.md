@@ -5,7 +5,7 @@ tags: first
 category: introduction thoughts
 ---
 
-I have researched computer security for over a decade. Over that time I have worked on testing, vulnerability discovery, and system architectures. More recently, I have been researching the history of computer security[^1], and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
+I have researched computer security for over a decade. Over that time I have worked on testing, vulnerability discovery, and system architectures. More recently, I have been researching the history of computer security([^1]), and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
 
 I hope you enjoy.
 
@@ -17,7 +17,7 @@ I will not often use the term _cyber_. I do not find it to be a generally useful
 
 Cybernetics was a term used in control theory by Norbert Weiner and Ross Ashby among others. They took the term from the greek term kubernetes.
 
-> __kubernetes__ (_nound_) -- steersman
+> __kubernetes__ (_noun_) -- steersman
 
 If _cyber_ is used in the context of cybernetics, then cyber security is the property of feeling _safe_ about the control of your system(s).
 
