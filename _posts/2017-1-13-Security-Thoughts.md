@@ -25,7 +25,7 @@ This brings me to the second definition, that of security. For many in informati
 
 For the purposes of this blog, security is viewed similarly to how Christopher Alexander in _Notes on the Synthesis of Form_ looks at design problems:
 
-> ... ever design problem begins with an effort to achieve fitness between two entities: the form in question and its context. The form is the solution to the problem; the context defines the problem. In other words, when we speak of design, the real object of discussion is not the form alone, but the ensemble compromising the form and its context. Good fit is a desired property of this ensemble which relates to some particular division of the ensemble into form and context.
+> ... every design problem begins with an effort to achieve fitness between two entities: the form in question and its context. The form is the solution to the problem; the context defines the problem. In other words, when we speak of design, the real object of discussion is not the form alone, but the ensemble compromising the form and its context. Good fit is a desired property of this ensemble which relates to some particular division of the ensemble into form and context.
 
 I prefer this perspective for two reasons. One it implies that one cannot judge the form, or the system, in isolation. I believe this is true of any security product or solution. It is not possible to evaluate the goodness of a solution without understanding the bigger context([^2]).
 
