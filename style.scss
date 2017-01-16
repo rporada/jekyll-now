@@ -77,6 +77,22 @@ a {
   }
 }
 
+// Added to format the footnotes in posts -RTP
+a.footnote:before {
+  content: "["
+}
+
+a.footnote {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+a.footnote:after {
+  content: "]"
+}
+
+// END -RTP
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -287,18 +303,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-
-// Added to format the footnotes in posts -RTP
-a.footnote:before {
-  content: "["
-}
-
-a.footnote {
-    vertical-align: super;
-    font-size: smaller;
-}
-
-a.footnote:after {
-  content: "]"
-}
