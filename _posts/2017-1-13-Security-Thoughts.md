@@ -5,7 +5,7 @@ tags: first
 category: introduction thoughts
 ---
 
-I have researched computer security for over a decade. Over that time I have worked on testing, vulnerability discovery, and system architectures. More recently, I have been researching the history of computer security([^1]), and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
+I have researched computer security for over a decade. Over that time I have worked on testing, vulnerability discovery, and system architectures. More recently, I have been researching the history of computer security[^1], and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
 
 I hope you enjoy.
 
@@ -27,7 +27,7 @@ For the purposes of this blog, security is viewed similarly to how Christopher A
 
 > ... every design problem begins with an effort to achieve fitness between two entities: the form in question and its context. The form is the solution to the problem; the context defines the problem. In other words, when we speak of design, the real object of discussion is not the form alone, but the ensemble compromising the form and its context. Good fit is a desired property of this ensemble which relates to some particular division of the ensemble into form and context.
 
-I prefer this perspective for two reasons. One it implies that one cannot judge the form, or the system, in isolation. I believe this is true of any security product or solution. It is not possible to evaluate the goodness of a solution without understanding the bigger context([^2]). The second point that I want to point out from Christopher Alexander's view is that of fitness being a _desired property_. Security is a desired property of a system([^3]), not a technology. 
+I prefer this perspective for two reasons. One it implies that one cannot judge the form, or the system, in isolation. I believe this is true of any security product or solution. It is not possible to evaluate the goodness of a solution without understanding the bigger context[^2]. The second point that I want to point out from Christopher Alexander's view is that of fitness being a _desired property_. Security is a desired property of a system[^3], not a technology. 
 
 With those definitions, I hope my view on security is a little clearer, and I expect it will continue to evolve as it has over the last decade.
 
