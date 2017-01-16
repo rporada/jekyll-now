@@ -35,6 +35,6 @@ With those definitions, I hope my view on security is a little clearer, and I ex
 
 [^1]: Two notable reports on security are the 1970 DSB report [Security Controls for Computer Systems](http://www.rand.org/pubs/reports/R609-1/index2.html) and the report from Cyber Command Historian Michael Warner [Cybersecurity: A Pre-History](http://www.tandfonline.com/doi/abs/10.1080/02684527.2012.708530?journalCode=fint20) 
 
-[^2]: Context in my view includes the system in which the solution is being applied, and the purpose, operation, and life-cycle of said system. For further clarification, I also look beyond the technical and include social aspects to the bigger system. These include the people, processes, and policies that govern the use of the technical system. 
+[^2]: Context in my view includes the system in which the solution is being applied, and the purpose, operation, and life-cycle of said system. I also look beyond the technical and include social aspects to the bigger system. These include the people, processes, and policies that govern the use of the technical system. 
 
 [^3]: In future posts, I expect to explore this concept further. I believe it is not just an _ility_ or a desired property, but an emergent property from the ensemble of the form and the context.
