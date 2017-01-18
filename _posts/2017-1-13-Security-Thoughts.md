@@ -7,7 +7,7 @@ category: introduction thoughts
 
 Over a decade of researching computer security has brought me to this point. Starting a blog.
 
-Over the last ten years I have worked on testing, vulnerability discovery, and system architectures. More recently, I have been researching the history of computer security[^1], and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
+Over the last ten years I have worked on testing, vulnerability discovery, and system design. More recently, I have been researching the history of computer security[^1], and trying to understand how we have progressed. Seeing little progress, I have branched out to other areas. These areas include: systems theory, control theory, social science, and psychology. This blog will cover these various topics, how they interact, and how we can learn from other disciplines to improve security. 
 
 I hope you enjoy.
 
