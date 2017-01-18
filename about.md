@@ -10,8 +10,8 @@ Security researcher working to make a small dent in the world.
 
 * Understanding the impediments to improving security. 
 * Understanding the technical and social issues with the adoption of better development and engineering practices. 
-* Social levers to improve industry wide development. 
-* Developing technology to improve security while fitting within the constraints of rapid development and corporate focus on product.
+* Social levers to improve industry wide development of secure systems. 
+* Developing technology to improve security while fitting within the constraints of rapid development and corporate focus on product delivery.
 
 ### Contact me
 
