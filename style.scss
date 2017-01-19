@@ -286,11 +286,13 @@ nav {
     font-size: 12px;
   }
 
-  .info {
-    font-size: 12px;
-    color: gray;
-  }
+
+
   border-bottom: var(--lightgrey) 1px dashed;
+}
+post-info {
+  font-size: 12px;
+  color: gray;
 }
 
 .wrapper-footer {
