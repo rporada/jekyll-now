@@ -275,7 +275,7 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-    border-bottom: var(--lightgrey) 1px dashed;
+ 
   }
 
   .comments {
@@ -286,6 +286,12 @@ nav {
     text-transform: uppercase;
     font-size: 12px;
   }
+
+  .info {
+    font-size: 12px;
+    font-color: $gray;
+  }
+  border-bottom: var(--lightgrey) 1px dashed;
 }
 
 .wrapper-footer {
@@ -294,6 +300,8 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
+
+
 
 footer {
   padding: 20px 0;
