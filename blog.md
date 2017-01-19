@@ -8,8 +8,8 @@ permalink: /blog/
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>  
-      <div class="info">by {{ page.author }} on {{ page.date | date_to_long_string }}</div>
-
+      <div class="info">on {{ post.date | date_to_long_string }}</div>
+<!-- by {{ page.author }}  -->
       <div class="entry">
         {{ post.excerpt | remove: '<p>' | remove: '</p>' }}... <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
