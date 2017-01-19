@@ -3,6 +3,7 @@ layout: post
 title: Introducing Security Thoughts 
 tags: first
 category: introduction thoughts
+author: Reed Porada
 ---
 
 Over a decade of researching computer security has brought me to this point. Starting a blog.
