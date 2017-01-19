@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Introducing Security Thoughts 
+title: Second Post
 tags: first
 category: introduction thoughts
 author: Reed
+draft: true
 ---
 
 asdf
