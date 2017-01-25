@@ -11,7 +11,7 @@ permalink: /blog/
       <div class="post-info">on {{ post.date | date_to_long_string }}</div>
 <!-- by {{ page.author }}  -->
       <div class="entry">
-        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}... <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">[Read More]</a>
       </div>
 
 
