@@ -11,11 +11,6 @@ author: Reed
 ## A Story: Garages
 Why do we have garages? 
 
-
-
-
-
-
 Some people may answer that question with to protect our cars from the elements. That would be the dictionary definition. Maybe a different question: What do we do with our garages?
 
 * Protect vehicles
@@ -52,11 +47,9 @@ What about non-domestic garages? Does this equation change?
 
 ---
 
-[^1]: see [Rolljam attack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/)
+[^1]: see [Rolljam attack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/). Also see [Physical garage attack](https://www.schneier.com/blog/archives/2010/08/breaking_into_a.html) for a discussion of other attacks, and hints at this changing context in the comments
 
-[^2]: [Physical garage attack](https://www.schneier.com/blog/archives/2010/08/breaking_into_a.html)
-
-[^3]: A description of the importance of context when being asked to compare (src: [Kottke](http://kottke.org/17/02/maybe-theres-more-that-brings-us-together-than-you-think)):
+[^2]: A description of the importance of context when being asked to compare (src: [Kottke](http://kottke.org/17/02/maybe-theres-more-that-brings-us-together-than-you-think)):
 <!-- > From Amos’s theory about the way people made judgments of similarity spilled all sorts of interesting insights. If the mind, when it compares two things, essentially counts up the features it notices in each of them, it might also judge those things to be at once more similar and more dissimilar to each other than some other pair of things. They might have both a lot in common and a lot not in common. Love and hate, and funny and sad, and serious and silly: Suddenly they could be seen — as they feel — as having more fluid relationships to each other. They weren’t simply opposites on a fixed mental continuum; they could be thought of as similar in some of their features and different in others. Amos’s theory also offered a fresh view into what might be happening when people violated transitivity and thus made seemingly irrational choices.
 > 
 > When people picked coffee over tea, and tea over hot chocolate, and then turned around and picked hot chocolate over coffee — they weren’t comparing two drinks in some holistic manner. Hot drinks didn’t exist as points on some mental map at fixed distances from some ideal. They were collections of features. Those features might become more or less noticeable; their prominence in the mind depended on the context in which they were perceived. And the choice created its own context: Different features might assume greater prominence in the mind when the coffee was being compared to tea (caffeine) than when it was being compared to hot chocolate (sugar). And what was true of drinks might also be true of people, and ideas, and emotions.
