@@ -14,7 +14,7 @@ I hope you enjoy.
 
 A few other notes as this journey begins. 
 
-I will not often use the term _cyber_. I do not find it to be a generally useful term when describing security. The current use of the term does not clarify what is being discussed. However, if I am using it on this blog it is in the context of the origin of the word and its use in cybernetics that is different.
+I will not often use the term _cyber_. I do not believe it is a useful term when describing security. The current use of the term does not clarify what is being discussed. However, if I am using it on this blog it is in the context of the origin of the word and its use in cybernetics that is different.
 
 > __cybernetics__ (_noun_) -- the science of communications and automatic control systems in both machines and living things
 
