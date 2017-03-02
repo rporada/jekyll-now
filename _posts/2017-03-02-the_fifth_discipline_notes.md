@@ -34,7 +34,7 @@ author: Reed
 1. Leverage often comes from new ways of thinking
 
 ## Types of Explanation
-__(NOTE: These are hierarchical)__
+_(NOTE: These are hierarchical)_
 
 * System Structure (generative)
 * Patterns of Behavior (responsive)
