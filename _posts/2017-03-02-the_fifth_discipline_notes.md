@@ -54,8 +54,4 @@ _(NOTE: These are hierarchical)_
 1. Dividing the elephant in half does not produce two small elephants.
 1. There is no blame.
 
-## Mission Statement
-1. **TOPIC**: I am studying ______
-1. **Question**: becasue I want to find out what/how/why ______, 
-1. **Significance**: in order to help my reader understand ______. 
 
